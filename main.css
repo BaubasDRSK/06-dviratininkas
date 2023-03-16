@@ -36,6 +36,15 @@ nav>a{
     text-decoration: none;
     color:black;
     padding-top:2px;
+
+    border-width: 2px;
+    border-style: solid;
+    /* border-image: linear-gradient(to right, white, white) 1; */
+    border-color:white;
+    border-top:none;
+    border-left:none;
+    border-right:none;
+    padding-top:0;
 }
 
 nav>a:hover {
